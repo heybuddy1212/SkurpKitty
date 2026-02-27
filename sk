@@ -1,0 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heybuddy1212/aegis-bio/main/canvas.png" width="100%" style="max-height:300px; object-fit:cover; filter:grayscale(20%) contrast(120%);">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heybuddy1212/aegis-bio/main/canvas.png" width="160" height="160" style="border-radius:50%; border:4px solid #000; box-shadow:0 0 20px #00ffd5;">
+</p>
+
+<h1 align="center">Jon “SkurptKitty” — AegisGodMode</h1>
+
+<pre style="background:#050506;color:#7ef5e6;padding:12px;border-radius:8px;overflow:auto;">
+user@aegis:~$ ./recon --mode god
+Found: 471 takeover-ready assets @ JPMorgan
+Status: reports submitted • remediated: multiple
+</pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Impact-Tens%20of%20Millions-black?style=flat&color=000000&labelColor=111111">
+  <img src="https://img.shields.io/badge/Disclosure-Responsible-red?style=flat&color=000000&labelColor=111111">
+</p>
+
+*Jon “SkurptKitty” — solo creator of AegisGodMode; discovered hundreds of critical cloud, DNS, and configuration vulnerabilities across global enterprises; responsible disclosures prevented tens of millions in potential damage.*
+
